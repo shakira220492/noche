@@ -1,0 +1,4 @@
+#checkout_form:
+#    path:     /checkout
+#    defaults: { _controller: PaypalBundle:Default:checkout }
+#    methods:  POST
